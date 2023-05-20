@@ -1,9 +1,3 @@
-#ligação de repositorios/versionamento
+#ligação de repositorios
 
-curso básico de git ADA TECH
-
-Edição 3,3
-ediçao diff
-
-nova edição 
-git dif
+##salvando alterações no git
