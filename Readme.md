@@ -2,4 +2,3 @@
 
 ##salvando alterações no git
 
-comando restore 
